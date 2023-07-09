@@ -31,3 +31,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "pyz"
 include ':app'
+include ':lib_common'
+include ':lib_net'
